@@ -3,6 +3,7 @@
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
+#include "clock.h"
 using namespace std;
 void insertion_sort(vector<int> & v)
 {

@@ -1,0 +1,2 @@
+compile:make
+O(n^2) is growing much faster than O(nlogn) when n is large
